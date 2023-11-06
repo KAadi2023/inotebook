@@ -1,3 +1,5 @@
+This Project is deployed. you Can see by clicking on this link [https://tasty-burger-food-app.netlify.app]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
