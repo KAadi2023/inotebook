@@ -1,4 +1,4 @@
-This Project is deployed. you Can see by clicking on this link [https://tasty-burger-food-app.netlify.app]
+This Project is deployed. you Can see by clicking on this link [https://inotebook-text-editor.netlify.app]
 
 # Getting Started with Create React App
 
